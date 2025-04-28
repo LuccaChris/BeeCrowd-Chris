@@ -1,5 +1,5 @@
-# Exercícios de Programação em C#
-
+# BeeCrowd-Chris
+Repositório com soluções para os problemas do BeeCrowd utilizando C#.
 Este projeto é um compilado de exercícios simples de programação, focados em entrada e saída de dados, desenvolvido em **C#**.
 
 ## 📚 Descrição
