@@ -37,3 +37,25 @@ Exemplos de exercícios implementados:
    Você pode verificar com o comando:
    ```bash
    dotnet --version
+   Compile e execute o programa:
+
+bash
+Copiar
+Editar
+dotnet run
+Siga as instruções no terminal, escolhendo o número do exercício que deseja testar.
+
+✅ Requisitos
+.NET SDK 6.0 ou superior
+
+Terminal ou prompt de comando
+
+📈 Melhorias Futuras
+Separar cada exercício em métodos próprios.
+
+Adicionar tratamento de erros nas entradas de dados.
+
+Criar um menu mais interativo para escolha dos exercícios.
+
+✍️ Autor
+Christian Lucca
