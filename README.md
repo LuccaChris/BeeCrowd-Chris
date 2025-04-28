@@ -37,12 +37,10 @@ Exemplos de exercícios implementados:
    Você pode verificar com o comando:
    ```bash
    dotnet --version
-   Compile e execute o programa:
+Compile e execute o programa:
 
-bash
-Copiar
-Editar
-dotnet run
+    ```bash
+      dotnet run
 Siga as instruções no terminal, escolhendo o número do exercício que deseja testar.
 
 ✅ Requisitos
