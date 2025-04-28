@@ -1,0 +1,14 @@
+C:\Users\207.cllamaral\BeeCrowdPractice\bin\Debug\net8.0\BeeCrowdPractice.exe
+C:\Users\207.cllamaral\BeeCrowdPractice\bin\Debug\net8.0\BeeCrowdPractice.deps.json
+C:\Users\207.cllamaral\BeeCrowdPractice\bin\Debug\net8.0\BeeCrowdPractice.runtimeconfig.json
+C:\Users\207.cllamaral\BeeCrowdPractice\bin\Debug\net8.0\BeeCrowdPractice.dll
+C:\Users\207.cllamaral\BeeCrowdPractice\bin\Debug\net8.0\BeeCrowdPractice.pdb
+C:\Users\207.cllamaral\BeeCrowdPractice\obj\Debug\net8.0\BeeCrowdPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\207.cllamaral\BeeCrowdPractice\obj\Debug\net8.0\BeeCrowdPractice.AssemblyInfoInputs.cache
+C:\Users\207.cllamaral\BeeCrowdPractice\obj\Debug\net8.0\BeeCrowdPractice.AssemblyInfo.cs
+C:\Users\207.cllamaral\BeeCrowdPractice\obj\Debug\net8.0\BeeCrowdPractice.csproj.CoreCompileInputs.cache
+C:\Users\207.cllamaral\BeeCrowdPractice\obj\Debug\net8.0\BeeCrowdPractice.dll
+C:\Users\207.cllamaral\BeeCrowdPractice\obj\Debug\net8.0\refint\BeeCrowdPractice.dll
+C:\Users\207.cllamaral\BeeCrowdPractice\obj\Debug\net8.0\BeeCrowdPractice.pdb
+C:\Users\207.cllamaral\BeeCrowdPractice\obj\Debug\net8.0\BeeCrowdPractice.genruntimeconfig.cache
+C:\Users\207.cllamaral\BeeCrowdPractice\obj\Debug\net8.0\ref\BeeCrowdPractice.dll
