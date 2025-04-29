@@ -55,5 +55,5 @@ Adicionar tratamento de erros nas entradas de dados.
 
 Criar um menu mais interativo para escolha dos exercícios.
 
-✍️ Autor
+#✍️ Autor
 Christian Lucca
