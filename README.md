@@ -43,17 +43,16 @@ Exemplos de exercícios implementados:
       dotnet run
 3. Siga as instruções no terminal, escolhendo o número do exercício que deseja testar.
 
-✅ Requisitos
-.NET SDK 6.0 ou superior
+    ✅ Requisitos
+    .NET SDK 6.0 ou superior
 
-Terminal ou prompt de comando
+   Terminal ou prompt de comando
+   📈 Melhorias Futuras
+   Separar cada exercício em métodos próprios.
 
-📈 Melhorias Futuras
-Separar cada exercício em métodos próprios.
+   Adicionar tratamento de erros nas entradas de dados.
 
-Adicionar tratamento de erros nas entradas de dados.
+   Criar um menu mais interativo para escolha dos exercícios.
 
-Criar um menu mais interativo para escolha dos exercícios.
-
-#✍️ Autor
-Christian Lucca
+## ✍️ Autor
+   Christian Lucca
